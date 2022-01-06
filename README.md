@@ -1,8 +1,11 @@
-👋 Hi, I’m Johannes Dragulanescu
+## Hi there 👋
 
-I am a Fullstack Software Developer with a huge passion for anything serverless development and finance
+I am **Johannes Dragulanescu**, a Fullstack Software Developer with a huge passion for anything serverless development and finance. **Skilled in NodeJS, React JS, Serverless, AWS services, RESTfull API’s, and many others.** 
 
-<!---
-jdragulanescu/jdragulanescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📜️ Vist my **[Blog: The Finance Blog](https://thefinanceblog.uk)**
+
+---
+
+[![Linkedin: Johannes](https://img.shields.io/badge/-Johannes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johannes-dragulanescu/)](https://www.linkedin.com/in/johannes-dragulanescu/)
+
+[![GitHub Johannes](https://img.shields.io/github/followers/jdragulanescu?label=follow&style=social)](https://github.com/jdragulanescu)
