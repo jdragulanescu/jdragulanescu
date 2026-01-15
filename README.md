@@ -6,6 +6,6 @@ I am **Johannes Dragulanescu**, a Fullstack Software Developer with a huge passi
 
 ---
 
-[![Linkedin: Johannes](https://img.shields.io/badge/-Johannes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johannes-dragulanescu/)](https://www.linkedin.com/in/johannes-dragulanescu/)
+[![Linkedin: Johannes](https://img.shields.io/badge/-Johannes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johannes-dragulanescu/)](https://www.linkedin.com/in/johannesdragulanescu/)
 
 [![GitHub Johannes](https://img.shields.io/github/followers/jdragulanescu?label=follow&style=social)](https://github.com/jdragulanescu)
