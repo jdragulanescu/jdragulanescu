@@ -1,11 +1,21 @@
-## Hi there 👋
+### Hi, I'm Johannes 👋
+*Shipping at the speed of light.*
 
-I am **Johannes Dragulanescu**, a Fullstack Software Developer with a huge passion for anything serverless development and finance. **Skilled in NodeJS, React JS, Serverless, AWS services, RESTfull API’s, and many others.** 
+```ts
+const johannes = {
+  role:     "Software Developer / Director",
+  location: "London",
+  company:  "Skylight Dev",
+  stack:    ["Node.js", "React", "AWS", "Serverless", "REST APIs"],
+  into:     ["serverless", "finance"],
+  blog:     "https://thefinanceblog.uk",
+};
+```
 
-📜️ Vist my **[Blog: The Finance Blog](https://thefinanceblog.uk)**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
----
-
-[![Linkedin: Johannes](https://img.shields.io/badge/-Johannes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johannes-dragulanescu/)](https://www.linkedin.com/in/johannesdragulanescu/)
-
-[![GitHub Johannes](https://img.shields.io/github/followers/jdragulanescu?label=follow&style=social)](https://github.com/jdragulanescu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannesdragulanescu/)
+[![The Finance Blog](https://img.shields.io/badge/The_Finance_Blog-111111?style=flat-square&logo=rss&logoColor=white)](https://thefinanceblog.uk)
